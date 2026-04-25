@@ -1,0 +1,8 @@
+data/
+*.mp4
+*.avi
+*.png
+*.jpg
+.venv/
+__pycache__/
+.DS_Store
